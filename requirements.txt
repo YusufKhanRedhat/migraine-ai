@@ -1,8 +1,10 @@
 streamlit==1.33.0
-scikit-learn
-nibabel
-pandas
 numpy
+pandas
+scikit-learn
 matplotlib
-tensorflow==2.13.0
+nibabel
 scipy
+tensorflow==2.10.0
+protobuf~=3.19.0
+opencv-python-headless
